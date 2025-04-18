@@ -15,3 +15,6 @@ made by: Justin Meng, Chihiro Yoshida, Monish MG, Jih Bin Luo.
 11. automatic replier AI
 12. daily fortune cookie
 13. gas prices indicator with map and stuff
+
+
+final descicion: 
