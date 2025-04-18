@@ -12,6 +12,7 @@ made
 **by: Justin Meng, Chihiro Yoshida, Monish MG, Jih Bin Luo.**
 
 <br/>
+
 ## Initial Ideas
 1. total notification summarizer in 1 app. ie) whatsapp, ig, disc, imess, etc. all compiles into 1 summary
 2. reading disability extension
